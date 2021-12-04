@@ -1,0 +1,13 @@
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\bin\Debug\netcoreapp3.1\LAB3_BT9.exe
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\bin\Debug\netcoreapp3.1\LAB3_BT9.deps.json
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\bin\Debug\netcoreapp3.1\LAB3_BT9.runtimeconfig.json
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\bin\Debug\netcoreapp3.1\LAB3_BT9.runtimeconfig.dev.json
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\bin\Debug\netcoreapp3.1\LAB3_BT9.dll
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\bin\Debug\netcoreapp3.1\LAB3_BT9.pdb
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\obj\Debug\netcoreapp3.1\LAB3_BT9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\obj\Debug\netcoreapp3.1\LAB3_BT9.AssemblyInfoInputs.cache
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\obj\Debug\netcoreapp3.1\LAB3_BT9.AssemblyInfo.cs
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\obj\Debug\netcoreapp3.1\LAB3_BT9.csproj.CoreCompileInputs.cache
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\obj\Debug\netcoreapp3.1\LAB3_BT9.dll
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\obj\Debug\netcoreapp3.1\LAB3_BT9.pdb
+D:\Study Docs\LeHaiDuong\Tuan02\LAB3_BT9\obj\Debug\netcoreapp3.1\LAB3_BT9.genruntimeconfig.cache
