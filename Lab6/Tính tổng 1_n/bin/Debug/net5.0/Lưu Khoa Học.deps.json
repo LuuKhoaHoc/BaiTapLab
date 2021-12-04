@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lưu Khoa Học/1.0.0": {
+        "runtime": {
+          "Lưu Khoa Học.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lưu Khoa Học/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Code\Lưu Khoa Học\Fibonasy\bin\Debug\net5.0\Fibonasy.exe
+D:\Code\Lưu Khoa Học\Fibonasy\bin\Debug\net5.0\Fibonasy.deps.json
+D:\Code\Lưu Khoa Học\Fibonasy\bin\Debug\net5.0\Fibonasy.runtimeconfig.json
+D:\Code\Lưu Khoa Học\Fibonasy\bin\Debug\net5.0\Fibonasy.runtimeconfig.dev.json
+D:\Code\Lưu Khoa Học\Fibonasy\bin\Debug\net5.0\Fibonasy.dll
+D:\Code\Lưu Khoa Học\Fibonasy\bin\Debug\net5.0\ref\Fibonasy.dll
+D:\Code\Lưu Khoa Học\Fibonasy\bin\Debug\net5.0\Fibonasy.pdb
+D:\Code\Lưu Khoa Học\Fibonasy\obj\Debug\net5.0\Fibonasy.csproj.AssemblyReference.cache
+D:\Code\Lưu Khoa Học\Fibonasy\obj\Debug\net5.0\Fibonasy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Lưu Khoa Học\Fibonasy\obj\Debug\net5.0\Fibonasy.AssemblyInfoInputs.cache
+D:\Code\Lưu Khoa Học\Fibonasy\obj\Debug\net5.0\Fibonasy.AssemblyInfo.cs
+D:\Code\Lưu Khoa Học\Fibonasy\obj\Debug\net5.0\Fibonasy.csproj.CoreCompileInputs.cache
+D:\Code\Lưu Khoa Học\Fibonasy\obj\Debug\net5.0\Fibonasy.dll
+D:\Code\Lưu Khoa Học\Fibonasy\obj\Debug\net5.0\ref\Fibonasy.dll
+D:\Code\Lưu Khoa Học\Fibonasy\obj\Debug\net5.0\Fibonasy.pdb
+D:\Code\Lưu Khoa Học\Fibonasy\obj\Debug\net5.0\Fibonasy.genruntimeconfig.cache

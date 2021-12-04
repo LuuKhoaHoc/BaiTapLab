@@ -1,0 +1,16 @@
+D:\Code\Lưu Khoa Học\Bảng menu\bin\Debug\net5.0\Bảng menu.exe
+D:\Code\Lưu Khoa Học\Bảng menu\bin\Debug\net5.0\Bảng menu.deps.json
+D:\Code\Lưu Khoa Học\Bảng menu\bin\Debug\net5.0\Bảng menu.runtimeconfig.json
+D:\Code\Lưu Khoa Học\Bảng menu\bin\Debug\net5.0\Bảng menu.runtimeconfig.dev.json
+D:\Code\Lưu Khoa Học\Bảng menu\bin\Debug\net5.0\Bảng menu.dll
+D:\Code\Lưu Khoa Học\Bảng menu\bin\Debug\net5.0\ref\Bảng menu.dll
+D:\Code\Lưu Khoa Học\Bảng menu\bin\Debug\net5.0\Bảng menu.pdb
+D:\Code\Lưu Khoa Học\Bảng menu\obj\Debug\net5.0\Bảng menu.csproj.AssemblyReference.cache
+D:\Code\Lưu Khoa Học\Bảng menu\obj\Debug\net5.0\Bảng menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Lưu Khoa Học\Bảng menu\obj\Debug\net5.0\Bảng menu.AssemblyInfoInputs.cache
+D:\Code\Lưu Khoa Học\Bảng menu\obj\Debug\net5.0\Bảng menu.AssemblyInfo.cs
+D:\Code\Lưu Khoa Học\Bảng menu\obj\Debug\net5.0\Bảng menu.csproj.CoreCompileInputs.cache
+D:\Code\Lưu Khoa Học\Bảng menu\obj\Debug\net5.0\Bảng menu.dll
+D:\Code\Lưu Khoa Học\Bảng menu\obj\Debug\net5.0\ref\Bảng menu.dll
+D:\Code\Lưu Khoa Học\Bảng menu\obj\Debug\net5.0\Bảng menu.pdb
+D:\Code\Lưu Khoa Học\Bảng menu\obj\Debug\net5.0\Bảng menu.genruntimeconfig.cache
