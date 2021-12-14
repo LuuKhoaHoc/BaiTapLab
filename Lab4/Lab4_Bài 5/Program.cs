@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace baitap
+namespace baits
 {
     class Program
     {
