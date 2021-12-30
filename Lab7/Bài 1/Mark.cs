@@ -7,7 +7,8 @@ namespace Lab7
             float DiemLT;//điểm lý thuyết
             float DiemTH;//điểm thực hành
             public float DTB(){ 
-                return (DiemLT+DiemTH)/2; 
+                System.Console.Write("Điểm trung bình: " +( (DiemLT+DiemTH)/2 ));
+                return  (DiemLT+DiemTH)/2; 
                 }
             public void NhapMonHoc(){
                 Console.OutputEncoding=System.Text.Encoding.UTF8;
@@ -21,14 +22,16 @@ namespace Lab7
             public void XuatMonHoc(){
                 System.Console.Write("Thông tin môn học \n");
                 System.Console.Write("====================================\n");
+                System.Console.WriteLine("Tên môn học: " +TenMonHoc);
                 System.Console.WriteLine("Điểm Lý Thuyết: " +DiemLT);
                 System.Console.WriteLine("Điểm Thực Hành: " + DiemTH);
-                System.Console.WriteLine("Điểm Trung Bình: " +(DiemTH+DiemLT)/2);
+                
             }
             public Mark(string TenMonHoc, float DiemLT, float DiemTH){
                 this.TenMonHoc = TenMonHoc;
                 this.DiemLT = DiemLT;
                 this.DiemTH = DiemTH;
+               
             }
         }        
     }
